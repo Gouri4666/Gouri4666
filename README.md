@@ -91,4 +91,4 @@ https://github.com/Gouri4666/E-Ballot
 <img src="https://raw.githubusercontent.com/Gouri4666/Gouri4666/main/dist/github-contribution-grid-snake.svg" />
 
 ---
-✨ *Engineering scalable systems with clarity, curiosity, and purpose.*
+✨ *balances awe with a healthy dose of caution.*
