@@ -13,10 +13,10 @@ Myself Gouri Nandana G
 ## 👩‍💻 Professional Summary
 
 I am an **MCA final year candidate** with hands-on experience in designing and developing  
-**scalable, secure, and performance-oriented web applications**.
+**scalable, secure, and performance-oriented web application**.
 
 I have worked across **PHP and Python ecosystems**, relational and NoSQL databases, and  
-domain-driven systems such as **Healthcare Applications** and **Secure Voting Platforms**.
+domain-driven systems*.
 
 
 ---
