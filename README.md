@@ -1,11 +1,11 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-<h1>Gouri Nandana G</h1>
+<h1>Hi There</h1>
 
 <h3>
-MCA Student 
+Myself Gouri Nandana G
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&width=700&lines=MCA+Student;BSC+Graduate;Learning;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&width=700&lines=MCA+Student;BSC+Graduate;Learning+BY+Building;Improving+By+Experience" />
 
 
 ---
@@ -50,7 +50,7 @@ domain-driven systems such as **Healthcare Applications** and **Secure Voting Pl
 
 
 ### 4️⃣ Development Workflow & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 
 
