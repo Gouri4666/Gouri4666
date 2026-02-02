@@ -88,7 +88,9 @@ https://github.com/Gouri4666/E-Ballot
 ---
 ## 📈 Contribution on GitHub 
 
-<img src="https://raw.githubusercontent.com/Gouri4666/Gouri4666/main/dist/github-contribution-grid-snake.svg" />
+
+
+<img src="https://raw.githubusercontent.com/Gouri4666/Gouri4666/output/github-contribution-grid-snake.svg" />
 
 ---
 ✨ *balances awe with a healthy dose of caution.*
