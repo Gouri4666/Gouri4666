@@ -5,7 +5,7 @@
 MCA Student 
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&width=700&lines=MCA+Student;BSC+Graduate;Data+Science+Enthusiast;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=38BDF8&width=700&lines=MCA+Student;BSC+Graduate;Learning;" />
 
 
 ---
