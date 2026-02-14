@@ -78,16 +78,6 @@ https://github.com/Gouri4666/E-Ballot
 
 ---
 ## 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=Gouri4666&show_icons=true&theme=github_dark" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouri4666&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouri4666&layout=compact&theme=default" />
-
----
-## 📈 Contribution on GitHub 
-
 
 
 <img src="https://raw.githubusercontent.com/Gouri4666/Gouri4666/output/github-contribution-grid-snake.svg" />
